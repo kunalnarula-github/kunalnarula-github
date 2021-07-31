@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kunalnarula-github
-- 👀 I’m interested in Full-stack web development
+- 👋 Hi, I’m Kunal Narula
+- 👀 I’m interested in Full-stack web development, UI designing
 - 🌱 I’m currently learning More About Development
 - 💞️ I’m looking to collaborate on Live Projects
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/kunal-narula-4336b710b/
